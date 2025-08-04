@@ -66,6 +66,8 @@
 <div align="center">
 	<a href="mailto:karpagavalli.suriya@gmail.com"><img height="80em" src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/kv-06"><img img height="80em" src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="www.linkedin.com/in/karpagavalli-s-8609b1303"><img img height="80em" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/karpagavalli-s-8609b1303" target="_blank" rel="noopener noreferrer">
+	  <img height="80em" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/>
+	</a>
 </div>
 
